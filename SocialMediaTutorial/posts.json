@@ -1,0 +1,102 @@
+[
+  {
+    "image": "post1",
+    "like_count": 50,
+    "comment_count": 12,
+    "view_count": 1200,
+    "description": "I honestly think cats just pretend to not speak to avoid taxes",
+    "profile_img": "cat2",
+    "profile_name": "Gabriel George",
+    "profile_id": "mrboss100"
+  },
+  {
+    "image": "post2",
+    "like_count": 80,
+    "comment_count": 15,
+    "view_count": 1500,
+    "description": "Was busy with my books",
+    "profile_img": "cat",
+    "profile_name": "Sufia Fathima",
+    "profile_id": "ilovecats"
+  },
+  {
+    "image": "post3",
+    "like_count": 120,
+    "comment_count": 25,
+    "view_count": 2000,
+    "description": "I found this amazing latte in our University",
+    "profile_img": "bear",
+    "profile_name": "Akshaya Suresh",
+    "profile_id": "akshxyasuresh"
+  },
+  {
+    "image": "post4",
+    "like_count": 70,
+    "comment_count": 18,
+    "view_count": 1400,
+    "description": "Just wanted to share the view I got today",
+    "profile_img": "deer",
+    "profile_name": "Siddarth Menath",
+    "profile_id": "siddu@1005"
+  },
+  {
+    "image": "post5",
+    "like_count": 70,
+    "comment_count": 18,
+    "view_count": 1400,
+    "description": "Made my setup today!Room tour coming soon",
+    "profile_img": "cat2",
+    "profile_name": "Abhishek's Aesthetics",
+    "profile_id": "thegentleman"
+  },
+  {
+    "image": "post6",
+    "like_count": 90,
+    "comment_count": 20,
+    "view_count": 1800,
+    "description": "Had the most delicious cake I could find today.",
+    "profile_img": "cat",
+    "profile_name": "Vachana",
+    "profile_id": "lifewithvach"
+  },
+  {
+    "image": "post7",
+    "like_count": 60,
+    "comment_count": 14,
+    "view_count": 1300,
+    "description": "New car who dis?",
+    "profile_img": "bear",
+    "profile_name": "Xavier",
+    "profile_id": "xavier_orlando"
+  },
+  {
+    "image": "post8",
+    "like_count": 100,
+    "comment_count": 22,
+    "view_count": 2200,
+    "description": "I have zero idea on coding but hey ChatGPT to the rescue!",
+    "profile_img": "deer",
+    "profile_name": "David Micheal",
+    "profile_id": "david_micheal"
+  },
+  {
+    "image": "post9",
+    "like_count": 75,
+    "comment_count": 16,
+    "view_count": 1600,
+    "description": "The last dance battle happens this tuesday. Stay tuned!",
+    "profile_img": "cat2",
+    "profile_name": "Rose Rebecca",
+    "profile_id": "rebeccasgotmoves"
+  },
+  {
+    "image": "post10",
+    "like_count": 110,
+    "comment_count": 30,
+    "view_count": 2400,
+    "description": "Anyone else allergic to sea food? 🙋🏽‍♂️",
+    "profile_img": "cat",
+    "profile_name": "Meme Master",
+    "profile_id": "gabriaelsspam"
+  }
+]
